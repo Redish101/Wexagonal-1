@@ -4,7 +4,7 @@ With backend Hex(agonal)
 
 **A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager**
 
-[文档地址](https://wexa.top)
+[文档地址](https://wexa.top/)
 
 # 安装平台与数据库兼容性
 
